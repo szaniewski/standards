@@ -14,5 +14,6 @@
 | :bride_with_veil: | release | `:bride_with_veil:` |
 | :name_badge: | important | `:name_badge:` |
 | :underage: | dead code removal | `:underage:` |
+| :kiss: | new vesion  | `:kiss:` |
 
 For more https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
